@@ -13,7 +13,7 @@ This project demonstrates a complete, end-to-end workflow for Clinical Data Mana
 
 1. Data Cleaning and Preparation: Standardization of text and formats, duplicate removal, handling of missing values, and outlier detection.
 2. Advanced Formulas: Application of logical (IF, AND), lookup (VLOOKUP), and statistical (COUNTIFS, AVERAGEIFS) functions to derive variables and perform quality checks.
-3. Data Summarization: Extensive use of PivotTables and PivotCharts to aggregate data. Use of the Data Analysis ToolPak for descriptive statistics and correlation analysis.
+3. Data Summarization: Extensive use of PivotTables and PivotCharts to aggregate data. 
 4. Data Modeling and ETL:
      -  Power Pivot: Used to create relationships between the Demographics, Labs, Visits, and Adverse Events tables to build a central, relational data model.
 5. Dashboarding and Visualization: Creation of an interactive dashboard featuring KPI cards, charts (Bar, Line, Pie), and slicers for dynamic filtering of clinical trial metrics.
